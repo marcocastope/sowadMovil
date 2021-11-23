@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SowadMovil</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Ingresar</string>
+    <string name="register">Registrarse</string>
+    <string name="firstname">Nombres</string>
+    <string name="lastname">Apellidos</string>
+    <string name="dni">Dni</string>
+    <string name="repeat_password">Repetir Contraseña</string>
+</resources>
